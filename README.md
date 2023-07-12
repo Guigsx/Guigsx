@@ -1,5 +1,5 @@
 # Olá! Eu sou Guilherme. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> 
-##
+#
 <h3>Contato: </h3>
 📩 Email para contato: guilhermeschmitzguii@gmail.com
 
@@ -15,6 +15,6 @@
   <img align="center" alt="GuigsxNodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
-##
+#
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Guigsx&color=red" alt="Guigsx profile views" /> </p>
