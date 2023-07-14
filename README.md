@@ -1,7 +1,7 @@
 # Olá! Eu sou Guilherme. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> 
-#
-<h3>Contato: </h3>
-📩 Email para contato: guilhermeschmitzguii@gmail.com
+<h3>Contato: </h3><br>
+- Discord: <a href="https://discord.com/users/852669453815513148">Guigsx</a><br>
+- 📫 Email para contato: guilhermeschmitzguii@gmail.com
 
 #
 
