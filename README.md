@@ -8,5 +8,5 @@ Espero que encontre utilidade em meu repositório e que possamos colaborar em pr
 
 <p align="left">
   <strong>Linguagens e ferramentas</strong>: <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,java,php,mongo,mysql"/>
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,nodejs,php,mongo,mysql"/>
 </p>
